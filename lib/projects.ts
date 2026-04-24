@@ -12,6 +12,6 @@ export const projects: Project[] = [
     title: "26 Mini Hacks",
     description: "This site — a running index of everything built along the way.",
     date: "2026-04-23",
-    href: "/",
+    href: "https://github.com/shreya-51/26_mini_hacks",
   },
 ];
